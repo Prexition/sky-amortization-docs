@@ -4,9 +4,7 @@ This simple loan calculator will determine the monthly regular payments on a loa
 
 If and when the duration of the loan is not in years or most probably not in whole number of years \(e.g...246 months\), a Regular Amortization can still be calculated using the Extra Principal Payment Calculator. Enter the Total Loan Payments in months and leave the Extra Payments blank or zero, the schedules will display the monthly payment table.
 
-![](/assets/Screenshot %28115%29.png)
+![](/assets/regular-loan-amortization-calculator.png)
 
-![](/assets/Screenshot %28116%29.png)
-
-
+![](/assets/regular-loan-amortization-schedule.png)
 
