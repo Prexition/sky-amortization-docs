@@ -14,3 +14,11 @@ Release Notes………………. Notes from any current version release.
 
 
 
+### Modify Schedule
+
+The ability to change certain variables to achieve a payment amount or to accommodate a variable interest rate change over time can be beneficial.
+
+### Preview Schedule
+
+Preview and review all schedules prior to printing.
+
